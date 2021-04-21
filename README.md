@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henneckej
-- Just playing around with Github
+- Just playing around with Github!
 
 <!---
 henneckej/henneckej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
